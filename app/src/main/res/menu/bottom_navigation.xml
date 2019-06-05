@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Inicio" />
+
+
+    <item
+        android:id="@+id/nav_pacientes"
+        android:icon="@drawable/ic_patients_24dp"
+        android:title="Pacientes" />
+
+
+    <item
+        android:id="@+id/nav_agenda"
+        android:icon="@drawable/ic_book_black_24dp"
+        android:title="Agenda" />
+
+    <item
+        android:id="@+id/nav_mensajes"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Mensajes" />
+
+    <item
+        android:id="@+id/nav_contenido"
+        android:icon="@drawable/ic_gif_24dp"
+        android:title="Contenido" />
+
+
+
+</menu>
